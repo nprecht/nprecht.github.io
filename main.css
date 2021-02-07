@@ -6,12 +6,19 @@ font-family: sans-serif;
 
 #firstPic, #secondPic, #thirdPic, #fourthPic {
 
-width: 100%;
+width: 75%;
 
 height: auto;
 
 /*margin: -8px;*/
 
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 #firstPic {
@@ -88,7 +95,7 @@ font-size: 2rem;
 
 #fatline {
 
-height: 5px;
+height: 4px;
 
 }
 
