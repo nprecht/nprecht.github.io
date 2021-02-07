@@ -4,6 +4,7 @@ font-family: sans-serif;
 
 }
 
+
 #firstPic, #secondPic, #thirdPic, #fourthPic {
 
 width: 75%;
@@ -14,6 +15,8 @@ height: auto;
 
 }
 
+
+
 .center {
     display: block;
     margin-left: auto;
@@ -21,11 +24,13 @@ height: auto;
     width: 50%;
 }
 
+
 #firstPic {
 
 max-width: 104%;
 
 }
+
 
 #secondPic, #thirdPic, #fourthPic {
 
