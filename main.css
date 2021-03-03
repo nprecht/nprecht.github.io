@@ -82,7 +82,7 @@ hr {
 
 border: none;
 
-height: 2px;
+height: 4px;
 
 color: #fff;
 
@@ -95,12 +95,6 @@ h2 {
 font-weight: 200;
 
 font-size: 2rem;
-
-}
-
-#fatline {
-
-height: 4px;
 
 }
 
